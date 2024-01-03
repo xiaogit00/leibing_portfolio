@@ -520,6 +520,11 @@ h6 {
       background-size: cover;
 }
 
+.profile-pic {
+      background: url(https://res.cloudinary.com/dl4murstw/image/upload/v1704268801/IMG_9136_copy_q081ge.jpg) no-repeat 60% 55%;
+      background-size: cover;
+}
+
 /*--------------- contact form --------------- */
 
 #contact-form {
